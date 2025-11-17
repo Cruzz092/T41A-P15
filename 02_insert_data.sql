@@ -25,7 +25,7 @@ INSERT INTO departamento (nombre) VALUES
 INSERT INTO empleados (correo, id_departamento) VALUES
   ('juan@example.com', 1),
   ('maria@example.com', 2),
-  ('luis@example.com', 2),
+  ('luis@example.com', 3),
   ('ana@example.com', 4),
   ('carlos@example.com', 5),
   ('sofia@example.com', 6),
